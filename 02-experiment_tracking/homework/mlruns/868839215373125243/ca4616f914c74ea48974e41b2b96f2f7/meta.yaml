@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868839215373125243/ca4616f914c74ea48974e41b2b96f2f7/artifacts
+end_time: 1716549112268
+entry_point_name: ''
+experiment_id: '868839215373125243'
+lifecycle_stage: active
+run_id: ca4616f914c74ea48974e41b2b96f2f7
+run_name: luminous-frog-946
+run_uuid: ca4616f914c74ea48974e41b2b96f2f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716549112178
+status: 3
+tags: []
+user_id: HP

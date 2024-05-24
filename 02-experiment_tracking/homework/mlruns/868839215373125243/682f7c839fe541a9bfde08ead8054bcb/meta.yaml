@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868839215373125243/682f7c839fe541a9bfde08ead8054bcb/artifacts
+end_time: 1716549104903
+entry_point_name: ''
+experiment_id: '868839215373125243'
+lifecycle_stage: active
+run_id: 682f7c839fe541a9bfde08ead8054bcb
+run_name: sassy-penguin-214
+run_uuid: 682f7c839fe541a9bfde08ead8054bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716549104819
+status: 3
+tags: []
+user_id: HP

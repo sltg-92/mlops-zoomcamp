@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Documents/Python_Projects/mlops-zoomcamp/02-experiment_tracking/homework/mlruns/0/50eff31acd7a47489978b2beadc4e860/artifacts
+end_time: 1716547586690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50eff31acd7a47489978b2beadc4e860
+run_name: masked-dove-914
+run_uuid: 50eff31acd7a47489978b2beadc4e860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716547566763
+status: 3
+tags: []
+user_id: HP

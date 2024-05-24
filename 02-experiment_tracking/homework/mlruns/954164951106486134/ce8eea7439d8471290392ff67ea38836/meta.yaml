@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/954164951106486134/ce8eea7439d8471290392ff67ea38836/artifacts
+end_time: 1716551437722
+entry_point_name: ''
+experiment_id: '954164951106486134'
+lifecycle_stage: active
+run_id: ce8eea7439d8471290392ff67ea38836
+run_name: funny-tern-737
+run_uuid: ce8eea7439d8471290392ff67ea38836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716551424545
+status: 3
+tags: []
+user_id: HP

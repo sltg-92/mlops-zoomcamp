@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868839215373125243/424c206cf7644e29b71004f639761571/artifacts
+end_time: 1716549030818
+entry_point_name: ''
+experiment_id: '868839215373125243'
+lifecycle_stage: active
+run_id: 424c206cf7644e29b71004f639761571
+run_name: dazzling-dove-739
+run_uuid: 424c206cf7644e29b71004f639761571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716549030729
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868839215373125243/5a3acc0fa83f4465a3404f3fa1fed1d2/artifacts
+end_time: 1716549041218
+entry_point_name: ''
+experiment_id: '868839215373125243'
+lifecycle_stage: active
+run_id: 5a3acc0fa83f4465a3404f3fa1fed1d2
+run_name: marvelous-snake-984
+run_uuid: 5a3acc0fa83f4465a3404f3fa1fed1d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716549041135
+status: 3
+tags: []
+user_id: HP

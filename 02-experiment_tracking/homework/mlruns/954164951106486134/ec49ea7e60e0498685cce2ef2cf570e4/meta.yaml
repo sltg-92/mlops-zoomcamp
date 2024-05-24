@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/954164951106486134/ec49ea7e60e0498685cce2ef2cf570e4/artifacts
+end_time: 1716551415593
+entry_point_name: ''
+experiment_id: '954164951106486134'
+lifecycle_stage: active
+run_id: ec49ea7e60e0498685cce2ef2cf570e4
+run_name: overjoyed-croc-805
+run_uuid: ec49ea7e60e0498685cce2ef2cf570e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716551402868
+status: 3
+tags: []
+user_id: HP

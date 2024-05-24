@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/954164951106486134/245ecd8b03f94ac2badee699e21fb47a/artifacts
+end_time: 1716551402847
+entry_point_name: ''
+experiment_id: '954164951106486134'
+lifecycle_stage: active
+run_id: 245ecd8b03f94ac2badee699e21fb47a
+run_name: useful-ox-724
+run_uuid: 245ecd8b03f94ac2badee699e21fb47a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716551382294
+status: 3
+tags: []
+user_id: HP

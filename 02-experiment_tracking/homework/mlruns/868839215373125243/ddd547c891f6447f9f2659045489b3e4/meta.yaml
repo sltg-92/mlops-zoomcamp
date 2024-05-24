@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868839215373125243/ddd547c891f6447f9f2659045489b3e4/artifacts
+end_time: 1716549031440
+entry_point_name: ''
+experiment_id: '868839215373125243'
+lifecycle_stage: active
+run_id: ddd547c891f6447f9f2659045489b3e4
+run_name: loud-sloth-935
+run_uuid: ddd547c891f6447f9f2659045489b3e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716549031357
+status: 3
+tags: []
+user_id: HP

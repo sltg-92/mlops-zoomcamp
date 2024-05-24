@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/868839215373125243/56dc7d1014094cac95c3b244d8ac48bc/artifacts
+end_time: 1716549061027
+entry_point_name: ''
+experiment_id: '868839215373125243'
+lifecycle_stage: active
+run_id: 56dc7d1014094cac95c3b244d8ac48bc
+run_name: debonair-mink-595
+run_uuid: 56dc7d1014094cac95c3b244d8ac48bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716549060939
+status: 3
+tags: []
+user_id: HP
